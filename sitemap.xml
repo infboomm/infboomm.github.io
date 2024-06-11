@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://infboomm.github.io/blog/</loc>
+    <lastmod>2024-06-11T23:32:07+03:00</lastmod>
+  </url><url>
+    <loc>http://infboomm.github.io/blog/hugo-ile-olu%C5%9Fturulan-siteyi-github-pages-ile-hoslamak/</loc>
+    <lastmod>2024-06-11T23:32:07+03:00</lastmod>
+  </url><url>
+    <loc>http://infboomm.github.io/</loc>
+    <lastmod>2024-06-11T23:32:07+03:00</lastmod>
+  </url><url>
     <loc>http://infboomm.github.io/authors/</loc>
   </url><url>
     <loc>http://infboomm.github.io/categories/</loc>
-  </url><url>
-    <loc>http://infboomm.github.io/</loc>
   </url><url>
     <loc>http://infboomm.github.io/series/</loc>
   </url><url>

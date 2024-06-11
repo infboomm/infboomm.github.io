@@ -6,6 +6,14 @@
     <description>Recent content on Inf</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 11 Jun 2024 23:32:07 +0300</lastBuildDate>
     <atom:link href="http://infboomm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo ile Oluşturulan Bir Siteyi GitHub Pages ile Hostlamak</title>
+      <link>http://infboomm.github.io/blog/hugo-ile-olu%C5%9Fturulan-siteyi-github-pages-ile-hoslamak/</link>
+      <pubDate>Tue, 11 Jun 2024 23:32:07 +0300</pubDate>
+      <guid>http://infboomm.github.io/blog/hugo-ile-olu%C5%9Fturulan-siteyi-github-pages-ile-hoslamak/</guid>
+      <description>Merhaba, bugün sizlere Hugo ile oluşturduğunuz bir siteyi nasıl Github Pages ile hostlayabileceğinizi anlatacağım. Hugo, hızlı ve esnek bir statik site oluşturucusudur ve Github Pages ücretsiz olarak sitenizi barındırmanıza imkan verir.&#xA;Gerekli Araçlar ve Hazırlık Link to heading Hugo: Site oluşturucu. Git: Versiyon kontrol sistemi. Github hesabı: Github Pages&amp;rsquo;i kullanabilmek için bir Github hesabına ihtiyacınız var. Terminal: Komut satırı. Adım 1: Hugo&amp;rsquo;yu Kurmak Link to heading Öncelikle Hugo&amp;rsquo;yu kurmanız gerekiyor. Kurulum adımları kullandığınız işletim sistemine göre farklılık gösterebilir.</description>
+    </item>
   </channel>
 </rss>
